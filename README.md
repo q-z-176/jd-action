@@ -41,7 +41,7 @@
 
   - 腾云云函数使用 [简要说明](iCloud.md)
         
-### 方法三：GitHub Action（推荐）
+### 方法三：GitHub Action（推荐这个）
 
  - 使用教程暂且可看 [这里](githubAction.md)
  
